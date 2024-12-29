@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public class Vehicle_Renting_System {
 
     public static void main(String[] args) {
