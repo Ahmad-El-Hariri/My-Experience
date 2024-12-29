@@ -260,6 +260,5 @@ public class Hangman_Game {
         System.out.printf("Win percent: %.1f%%\n", winPercentage);
 
         System.out.println("Best game: " + best + " guess(es) remaining");
-
     }
 }
